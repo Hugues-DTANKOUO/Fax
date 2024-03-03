@@ -25,7 +25,7 @@ Nous accueillons chaleuresement les pull requests. Voici quelques lignes directr
 
 #### 2. *Installez les dépendances* et assurez-vous que le projet fonctionne correctement sur votre système.
 
-#### 3. *Suivez les conventions de code* du projet. Pour ce projet Python, nous suivons [PEP 8](https://peps.python.org/pep-0008/), assurez-vous donc de l'avoir lu et de l'appliquer.
+#### 3. *Suivez les conventions de code* du projet. Pour ce projet Python, nous suivons [PEP 8](https://peps.python.org/pep-0008/) ([Petit résumé de PEP 8](/docs/PEP8-resume-fr.md)), assurez-vous donc de l'avoir lu et de l'appliquer.
 
 #### 4. *Écrivez des tests pour les nouvelles fonctionnalités ou correction de bugs lorsque cela est possible.
 

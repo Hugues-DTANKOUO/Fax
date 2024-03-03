@@ -8,7 +8,7 @@
     "
 >
     <img src="./assets/fax-img-1.png" width="100" height="auto" alt="Première image" />
-    <img src="./Fax-logo.png" width="300" height="auto" alt="Première image" />
+    <img src="./assets/logo/Fax-logo.png" width="300" height="auto" alt="Première image" />
     <img src="./assets/fax-img-2.png" width="100" height="auto" alt="Première image" />
 </div>
 
@@ -38,7 +38,7 @@ Compte tenu de nos réalités energétiques et de notre accès à la connectivit
 
 ## Utilisation
 
-## Contribution
+## [Contribution](CONTRIBUTING.md)
 
 ## Licence
 
