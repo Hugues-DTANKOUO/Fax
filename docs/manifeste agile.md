@@ -41,7 +41,7 @@
         font-size: 18px;
     "
 >
-    <li>Des solutions opérationnelles, <span style="color: grey;">, de préférence à une documentation exhaustive,</span></li>
+    <li>Des solutions opérationnelles, <span style="color: grey;">de préférence à une documentation exhaustive,</span></li>
 </ul>
 <ul style="
         display: flex;
