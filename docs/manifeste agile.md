@@ -176,7 +176,7 @@
         font-size: 22px;
     "
 >
-    Notre principale priorité est de satisfaire le client en livrant rapidement et 
+    1. Notre principale priorité est de satisfaire le client en livrant rapidement et 
 </div>
 <div style="
         display: flex;
@@ -198,7 +198,7 @@
         color: grey;
     "
 >
-    Accueillez chaleureusement les changements de besoins, même tardifs dans le 
+    2. Accueillez chaleureusement les changements de besoins, même tardifs dans le 
 </div>
 <div style="
         display: flex;
@@ -231,7 +231,7 @@
         font-size: 22px;
     "
 >
-    Livrez souvent des solutions opérationnelles, à une fréquence allant de quelques
+    3. Livrez souvent des solutions opérationnelles, à une fréquence allant de quelques
 </div>
 <div style="
         display: flex;
@@ -263,7 +263,7 @@
         color: grey;
     "
 >
-    Les personnes en charge du métier ou des affaires et les personnes en charge de
+    4. Les personnes en charge du métier ou des affaires et les personnes en charge de
 </div>
 <div style="
         display: flex;
@@ -285,7 +285,7 @@
         font-size: 22px;
     "
 >
-    Construisez les projets à partir de personnes motivées. Donnez-leur 
+    5. Construisez les projets à partir de personnes motivées. Donnez-leur 
 </div>
 <div style="
         display: flex;
@@ -317,7 +317,7 @@
         color: grey;
     "
 >
-    La conversation en face à face est la méthode la plus efficace et la plus
+    6. La conversation en face à face est la méthode la plus efficace et la plus
 </div>
 <div style="
         display: flex;
@@ -350,7 +350,7 @@
         font-size: 22px;
     "
 >
-    La disponibilité de solutions opérationnelles est la principale mesure
+    7. La disponibilité de solutions opérationnelles est la principale mesure
 </div>
 <div style="
         display: flex;
@@ -372,7 +372,7 @@
         color: grey;
     "
 >
-    Les processus agiles encouragent à respecter un rythme soutenable lors de la
+    8. Les processus agiles encouragent à respecter un rythme soutenable lors de la
 </div>
 <div style="
         display: flex;
@@ -405,7 +405,7 @@
         font-size: 22px;
     "
 >
-    Porter continuellement attention à l’excellence technique et à la qualité de la 
+    9. Porter continuellement attention à l’excellence technique et à la qualité de la 
 </div>
 <div style="
         display: flex;
@@ -427,7 +427,7 @@
         color: grey;
     "
 >
-    La simplicité – l’art de maximiser la quantité de travail qu’on ne fait pas – est 
+    10. La simplicité – l’art de maximiser la quantité de travail qu’on ne fait pas – est 
 </div>
 <div style="
         display: flex;
@@ -449,7 +449,7 @@
         font-size: 22px;
     "
 >
-    Les meilleures architectures, les meilleures spécifications de besoins, et les
+    11. Les meilleures architectures, les meilleures spécifications de besoins, et les
 </div>
 <div style="
         display: flex;
@@ -471,7 +471,7 @@
         color: grey;
     "
 >
-    À intervalles réguliers, l’équipe réfléchit aux façons de devenir plus efficace, puis
+    12. À intervalles réguliers, l’équipe réfléchit aux façons de devenir plus efficace, puis
 </div>
 <div style="
         display: flex;
