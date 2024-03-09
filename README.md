@@ -141,6 +141,8 @@ Au sorti de nos travaux, l'objectif visés est d'avoir une solution utile et uti
 
 ## [Contribution](CONTRIBUTING.md)
 
+### [Comment contribuer au projet avec VS Code sur sa machine](/docs/utilisatation-vs-code.md)
+
 ## Licence
 
 ## Contact
