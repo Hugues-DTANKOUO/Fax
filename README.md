@@ -93,11 +93,11 @@ Il est question ici définir les propriétés d'un utilisateur, d'en créer et d
 
 Il est question ici de pouvoir retracer qui a fait quoi
 
-#### <span style="color: green; font-weight: bold; text-decoration: underline;">Quand</span> nous associons un rôle et des permissions à un utilisateur
+#### - <span style="color: green; font-weight: bold; text-decoration: underline;">Quand</span> nous associons un rôle et des permissions à un utilisateur
 
 Il est question ici de savoir qui peut faire quoi
 
-#### <span style="color: green; font-weight: bold; text-decoration: underline;">Quand</span> nous interfaçons ces fonctionnalités à :
+#### - <span style="color: green; font-weight: bold; text-decoration: underline;">Quand</span> nous interfaçons ces fonctionnalités à :
 
 - Une interface graphique pour ordinateur
 
@@ -110,6 +110,26 @@ Il est question ici de savoir qui peut faire quoi
 - Une API Web
 
 ### 3. Objectifs visés
+
+Au sorti de nos travaux, l'objectif visés est d'avoir une solution utile et utilisable de notre produit *`FAX`*. Étant donné notre contexte et Quand on déroulera notre plan d'action,
+
+#### - <span style="color: green; font-weight: bold; text-decoration: underline;">Alors</span> on aura la capacité de manipuler un dossier sur notre ordinateur local depuis l'application
+
+#### - <span style="color: green; font-weight: bold; text-decoration: underline;">Alors</span> on pourra manipuler un dossier distant provenant de Google Drive, d'une machine distante ou de d'autres plateformes
+
+#### - <span style="color: green; font-weight: bold; text-decoration: underline;">Alors</span> on pourra faire le suivi de l'activité d'un utilisateur sur l'application
+
+#### - <span style="color: green; font-weight: bold; text-decoration: underline;">Alors</span> on pourra octroyer et gérer les accès à un dossier sous notre suppervision depuis l'application
+
+#### - <span style="color: green; font-weight: bold; text-decoration: underline;">Alors</span> on aura une application multi-plateforme accessible par :
+
+- Une interface graphique pour ordinateur
+
+- Une application mobile Androïd ou iOS
+
+- Une interface de ligne de commande
+
+- Une API Web
 
 ## Fonctionnalités
 
