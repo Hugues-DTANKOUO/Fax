@@ -150,4 +150,4 @@ Au sorti de nos travaux, l'objectif visés est d'avoir une solution utile et uti
 | *Roles* | Prénom et Nom | Github | LinkedIn | Facebook | Téléphone |
 |---------|---------------|--------|----------|----------|-----------|
 | *Chef de Projet* | Hugues DTANKOUO | [@Hugues-DTANKOUO](https://github.com/Hugues-DTANKOUO)   |   [@dtankouo](https://linkedin.com/in/dtankouo)   |   [@ing.hugues.dtankouo](https://facebook.com/ing.hugues.dtankouo)   |   [+1(819)529-4795](https://wa.me/message/RE3Z6BSVNAOTF1) |
-| Contributeur 1 | | | | | |
+| Contributeur 1 |Paul KPADONOU |[@Mahouton](https://github.com/Mahouton) |[@paul-kpadonou](https://www.linkedin.com/in/paul-kpadonou/) | |[+(229)90320232](90320232)|
