@@ -59,6 +59,8 @@ Puis clique sur `Créez une nouvelle branche ...`, donne un nom simple et sans e
 
 ## Apporte tes modifications
 
+Avant de le faire, assure toi d'avoir installer les dépendances du projet [avec poetry par ce lien](/fax/docs/python-3-poetry.md)
+
 Utilise VS Code pour modifier le code comme tu sais le faire ou comme on l'a fait dans les exercices précédent de notre formation sur Python. 
 
 ## Pousse tes changements sur ton fork en ligne (`Commit`)
