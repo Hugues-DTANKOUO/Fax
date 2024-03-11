@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "mobile"
+version = "0.1.0"
+description = "Version mobile du projet Fax"
+authors = ["Hugues DTANKOUO <huguesdtankouo@gmail.com>"]
+readme = "README.md"
+packages = [
+    {include = "mobile", from = "src"},
+]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+api = {path = "../api", develop = true}
+black = "^24.2.0"
+mypy = "^1.9.0"
+pytest = "^8.1.1"
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.3.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+line-length = 120
+exclude = [
+    ".venv",
+    "build",
+]
+
+[tool.ruff.format]
+quote-style = "double"

@@ -21,9 +21,9 @@ Pour toute suggestion d'amélioration ou demande de fonctionnalité, ouvrez une 
 
 Nous accueillons chaleuresement les pull requests. Voici quelques lignes directrices à suivre pour contribuer :
 
-#### 1. *Clôner le dépôt* et créer votre branche à partir de `main`.
+#### 1. *Forker le dépôt* et suivez les instructions pour configurer votre espace de travail sur [VS Code](/docs/utilisatation-vs-code.md)
 
-#### 2. *Installez les dépendances* et assurez-vous que le projet fonctionne correctement sur votre système.
+#### 2. *Installez les dépendances* et assurez-vous que le projet fonctionne correctement sur votre système. [(poetry)](/fax/docs/python-3-poetry.md)
 
 #### 3. *Suivez les conventions de code* du projet. Pour ce projet Python, nous suivons [PEP 8](https://peps.python.org/pep-0008/) ([Petit résumé de PEP 8](/docs/PEP8-resume-fr.md)), assurez-vous donc de l'avoir lu et de l'appliquer.
 
@@ -32,6 +32,11 @@ Nous accueillons chaleuresement les pull requests. Voici quelques lignes directr
 #### 5. *Documentez votre code*, en particulier les nouvelles fonctionnalités. Assurez-vous d'ajouter ou de mettre à jour les commentaires dans le code et la documentation du projet si nécessaire.
 
 #### 6. *Exécutez les tests* existants pour vous assurer que vous n'avez pas introduit de régressions.
+
+Dans le repertoire [/fax](/fax/), exécutez la commande :
+```shell
+poetry run check
+```
 
 #### 7. *Soumettez votre pull request* avec une description détaillé de vos modifications. Incluez le contexte de ce que vous avez fait et pourquoi.
 
