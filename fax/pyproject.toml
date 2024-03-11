@@ -4,6 +4,9 @@ version = "0.1.0"
 description = "Fax est application de Gestion Électronique des Documents"
 authors = ["Hugues DTANKOUO <huguesdtankouo@gmail.com>"]
 readme = "README.md"
+packages = [
+    { include = "fax", from = "src" },
+]
 
 [tool.poetry.dependencies]
 python = "^3.11"
