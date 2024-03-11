@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from ...api.models.folder import Folder
+from api.models.folder import Folder
 
 
 def test_creation_dossier():
