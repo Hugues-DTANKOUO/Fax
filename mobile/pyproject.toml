@@ -1,20 +1,19 @@
 [tool.poetry]
-name = "fax"
+name = "mobile"
 version = "0.1.0"
-description = "Fax est application de Gestion Électronique des Documents"
+description = "Version mobile du projet Fax"
 authors = ["Hugues DTANKOUO <huguesdtankouo@gmail.com>"]
 readme = "README.md"
+packages = [
+    {include = "mobile", from = "src"},
+]
 
 [tool.poetry.dependencies]
 python = "^3.11"
-api = { path = "../api", develop = true }
-desktop = { path = "../desktop", develop = true }
-mobile = { path = "../mobile", develop = true }
-web-api = { path = "../web_api", develop = true }
+api = {path = "../api", develop = true}
 black = "^24.2.0"
 mypy = "^1.9.0"
 pytest = "^8.1.1"
-
 
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.3.2"
@@ -32,8 +31,3 @@ exclude = [
 
 [tool.ruff.format]
 quote-style = "double"
-
-[tool.poetry.scripts]
-lint = "fax.scripts.run_lint:run"
-tests = "fax.scripts.run_tests:run"
-check = "fax.scripts.run_check:run"
