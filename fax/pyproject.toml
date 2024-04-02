@@ -17,6 +17,7 @@ web-api = { path = "../web_api", develop = true }
 black = "^24.2.0"
 mypy = "^1.9.0"
 pytest = "^8.1.1"
+pydantic = "^2.6.4"
 
 
 [tool.poetry.group.dev.dependencies]
